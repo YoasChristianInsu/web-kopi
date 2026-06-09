@@ -1,5 +1,6 @@
 <?php
 include 'header.php';
+
 ?> 
         <section>
             <h2>Tentang Program</h2>
@@ -25,4 +26,5 @@ include 'header.php';
             ?>
             </div>
         </section>
+        <?php include 'frm_pendaftaran.php'; ?>
 </html>
